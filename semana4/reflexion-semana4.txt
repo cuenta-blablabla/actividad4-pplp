@@ -1,0 +1,9 @@
+Utilizar proyectos libres y de código abierto como Node.js otorga a las comunidades la capacidad de
+desarrollar software en beneficio del bien común. Carl Sagan afirmaba que vivimos en un mundo 
+extremadamente dependiente de la ciencia y la tecnología, aunque pocas personas comprenden 
+realmente cómo funcionan. Esta reflexión puede aplicarse al contexto de las páginas web, donde los 
+usuarios suelen interactuar únicamente con la interfaz gráfica, compuesta por menús desplegables, 
+botones y otros elementos visuales que facilitan la navegación—, mientras que solo una pequeña 
+proporción conoce la lógica del servidor que opera detrás de ella. Una comunidad capaz de desarrollar
+servidores con Express puede comunicarse de manera más eficiente, automatizar procesos, brindar 
+acceso a información pública y, en consecuencia, mejorar su calidad de vida colectiva.
